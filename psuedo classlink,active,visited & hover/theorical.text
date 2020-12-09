@@ -1,0 +1,18 @@
+A pseudo-class can be defined as a keyword which is combined to a selector that defines 
+the special state of the selected elements. It is added to the selector for adding an
+effect to the existing elements based on their states. For example, The ":hover" is used
+for adding special effects to an element when the user moves the cursor over the element.
+
+The names of the pseudo-class are not case-sensitive.
+Syntax
+A pseudo-class starts with a colon (:). Let's see its syntax.
+
+selector: pseudo-class {  
+  property: value;  
+}  
+pseudo-class	Description
+:active	= It is used to add style to an active element.
+:hover	= It adds special effects to an element when the user moves the mouse pointer over 
+the element.
+:link	= It adds style to the unvisited link.
+:visited	=It adds style to a visited link.
