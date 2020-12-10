@@ -1,0 +1,2 @@
+focus psuedo-class selects the elements that are currently focused on by the user. It is
+generally used in input elements of the forms and triggers when the user clicks on it.

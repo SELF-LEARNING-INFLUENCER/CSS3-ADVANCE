@@ -1,0 +1,4 @@
+input:focus{
+    border: solid 3px #a7d405;
+    width: 250px;
+}
