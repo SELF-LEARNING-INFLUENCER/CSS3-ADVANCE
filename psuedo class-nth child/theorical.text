@@ -1,0 +1,4 @@
+The CSS3 introduces a new :nth-child pseudo-class that allows you to target one or more 
+specific children of a given parent element. The basic syntax of this selector can be 
+given with :nth-child(N), where N is an argument, which can be a number, a keyword (even 
+or odd), or an expression of the form xn+y where x and y are integers (e.g. 1n, 2n, 2n+1, …).
