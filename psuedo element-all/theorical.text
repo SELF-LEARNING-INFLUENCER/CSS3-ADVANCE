@@ -1,0 +1,26 @@
+The CSS pseudo-elements allow you to style the elements or parts of the elements without 
+adding any IDs or classes to them. It will be really helpful in the situations when you 
+just want to style the first letter of a paragraph to create the drop cap effect or you 
+want to insert some content before or after an element, etc. only through style sheet.
+
+CSS3 introduced a new double-colon (::) syntax for pseudo-elements to distinguish between 
+them and pseudo-classes. The new syntax of the pseudo-element can be given with:
+
+selector::pseudo-element { property: value; }
+
+CSS Pseudo Elements ::first-letter
+1. The pseudo-element selector ::first-name selects the first-letter of the text Content.
+2. Its used to distinguish or isolate the first letter of a text block, to create a "Drop 
+Caps" effect
+
+CSS Pseudo Element ::first-line
+1. CSS Pseudo Element ::first-line selects the first line of the specified text block.
+
+CSS Pseudo Element ::before
+1. CSS Pseudo Element ::before immediately before the element.
+2. Usually the "content" property is used to define the generated content, but even CSS 
+styles can be applied. Eg: for shadow effect
+
+CSS Pseudo Element ::after
+1. CSS pseudo element ::after is used to generate content immediately after the text block 
+or content.

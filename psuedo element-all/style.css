@@ -1,0 +1,23 @@
+.first-letter>h1::first-letter{
+    font-family:Verdana;
+    color:#fa4b2a;
+    font-size:36px;
+}
+.first-line>h1::first-line{
+    color: aqua;
+}
+h2::first-line{
+    font-family:Papyrus,Verdana;
+    color:#fa4b2a;
+    font-size:34px;
+}
+h3::before{
+    font-family:Papyrus,Verdana;
+    content: "Wisdom Quotes-"; /* Content to appear before the text */
+    color:#fa4b2a;
+}
+p::after{
+    font-family:Papyrus,Verdana;
+    content: "- Oprah Winfrey"; /* Content to appear after the text */
+    color:#fa4b2a;
+}
