@@ -1,0 +1,7 @@
+CSS display is the most important property of CSS which is used to control the layout of 
+the element. It specifies how the element is displayed.
+Overriding the default display value of an element is an important implication of the 
+display property. For example, changing an inline-level element to be displayed as 
+block-level element or changing the block-level element to be displayed as an inline-level 
+element.
+The "none" value totally removes the element from the page. It will not take any space.
