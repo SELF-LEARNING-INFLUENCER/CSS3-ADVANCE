@@ -1,0 +1,9 @@
+CSS display is the most important property of CSS which is used to control the layout of 
+the element. It specifies how the element is displayed.
+Overriding the default display value of an element is an important implication of the 
+display property. For example, changing an inline-level element to be displayed as 
+block-level element or changing the block-level element to be displayed as an inline-level 
+element.
+The inline element takes the required width only. It doesn't force the line break so the 
+flow of text doesn't break in inline example.The inline value of the display property 
+causes an element to behave as though it were an inline-level element
