@@ -1,0 +1,12 @@
+Links or hyperlinks are an essential part of a website. It allows visitors to navigate 
+through the site.A link has four different states — link, visited, active and hover.
+In all major web browsers such as Chrome, Firefox, Safari, etc. links on the web pages have underlines and uses the browser's default link colors, if you do not set the styles exclusively for them.
+
+By default, text links will appear as follow in most of the browsers:
+
+An unvisited link as underlined blue text.
+A visited link as underlined purple text.
+An active link as underlined red text.
+Simply use the CSS color property to define the color of your choice for different state 
+of a link. But when choosing colors make sure that user can clearly differentiate between 
+normal text and links.
