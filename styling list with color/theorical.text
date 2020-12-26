@@ -1,0 +1,26 @@
+There are three different types of list in HTML:
+
+Unordered lists — A list of items, where every list items are marked with bullets.
+Ordered lists — A list of items, where each list items are marked with numbers.
+Definition list — A list of items, with a description of each item.
+Styling Lists with CSS
+CSS provides the several properties for styling and formatting the most commonly used 
+unordered and ordered lists. These CSS list properties typically allow you to:
+Set the distance between the text and the marker in the list.
+Specify an image for the marker instead of using the number or bullet point.
+Control the marker appearance and shape.
+Place the marker outside or inside the box that contains the list items.
+Set the background colors to list items and lists.
+The CSS properties to style the lists are given as follows:
+list-style-type: This property is responsible for controlling the appearance and shape of 
+the marker.
+list-style-image: It sets an image for the marker instead of the number or a bullet point.
+list-style-position: It specifies the position of the marker.
+list-style: It is the shorthand property of the above properties.
+marker-offset: It is used to specify the distance between the text and the marker. It is 
+unsupported in IE6 or Netscape 7.
+
+Styling list with color:
+To make the lists more attractive and interesting, we can style lists with colors. The 
+addition of anything to the <ul> or <ol> tag will affect the entire list, whereas the 
+addition to the individual <li> tag will affect the items of the corresponding list.
