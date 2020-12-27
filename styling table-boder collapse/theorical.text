@@ -1,0 +1,29 @@
+Styling Tables with CSS
+Tables are typically used to display tabular data, such as financial reports.
+
+But when you create an HTML table without any styles or attributes, browsers display them 
+without any border. With CSS you can greatly improve the appearance your tables.
+
+CSS provides several properties that allow you to control the layout and presentation of 
+the table elements. In the following section you will see how to use CSS to create 
+elegant and consistent tables.
+There are some CSS properties that are widely used in designing table using CSS:
+
+border
+border-collapse
+padding
+width
+height
+text-align
+color
+background-color
+styling table-border collapse:
+There are two distinct models for setting borders on table cells in CSS: separate and 
+collapse.
+
+In the separate border model, which is the default, each table cell has its own distinct 
+borders, whereas in the collapsed border model, adjacent table cells share a common border.
+You can set the border model for an HTML table by using the CSS border-collapse property.
+Note: You can also remove the space between the table cell borders through setting the 
+value of CSS border-spacing property to 0. However, it only removes the space but do not 
+merge the borders like when you set the border-collapse to collapse.
