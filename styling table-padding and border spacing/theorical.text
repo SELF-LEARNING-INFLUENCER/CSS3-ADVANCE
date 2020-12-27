@@ -1,0 +1,20 @@
+Styling Tables with CSS
+Tables are typically used to display tabular data, such as financial reports.
+
+But when you create an HTML table without any styles or attributes, browsers display them 
+without any border. With CSS you can greatly improve the appearance your tables.
+
+CSS provides several properties that allow you to control the layout and presentation of 
+the table elements. In the following section you will see how to use CSS to create 
+elegant and consistent tables.
+There are some CSS properties that are widely used in designing table using CSS:
+
+border
+border-collapse
+padding
+width
+height
+text-align
+color
+background-color
+styling table-border collapse:
