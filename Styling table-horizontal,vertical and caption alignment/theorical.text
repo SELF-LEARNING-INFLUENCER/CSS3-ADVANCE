@@ -1,0 +1,32 @@
+Styling Tables with CSS
+Tables are typically used to display tabular data, such as financial reports.
+
+But when you create an HTML table without any styles or attributes, browsers display them 
+without any border. With CSS you can greatly improve the appearance your tables.
+
+CSS provides several properties that allow you to control the layout and presentation of 
+the table elements. In the following section you will see how to use CSS to create 
+elegant and consistent tables.
+There are some CSS properties that are widely used in designing table using CSS:
+
+border
+border-collapse
+padding
+width
+height
+text-align
+color
+background-color
+Styling table-horizontal,vertical and caption alignment:
+For horizontal alignment of text inside the table cells you can use the text-align property 
+in the same way as you use with other elements. You align text to either left, right, 
+center or justify.The following style rules will left-align the text inside the <th> 
+elements.
+Similarly, you can vertically align the content inside the <th> and <td> elements to top, 
+bottom, or middle using the CSS vertical-align property. The default vertical alignment is 
+middle.The following style rules will vertically bottom-align the text inside the <th> 
+elements.
+You can set the vertical position of a table caption using the CSS caption-side property.
+
+The caption can be placed either at the top or bottom of the table. The default position 
+is top.
