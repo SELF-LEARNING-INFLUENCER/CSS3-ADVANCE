@@ -1,0 +1,15 @@
+table{
+   width: 40%;
+   border-collapse: separate;
+}
+table,th,td{
+   border: 1px solid rebeccapurple;
+   padding: 5px;
+   border-spacing: 10px;
+}
+table.empty-show{
+   empty-cells: show;
+}
+table.empty-hide{
+   empty-cells: hide;
+}
