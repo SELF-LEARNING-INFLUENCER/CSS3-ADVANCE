@@ -1,0 +1,14 @@
+.container{
+   margin: 50px 250px;
+   padding: 80px;
+   border: 5px solid blue;
+}
+.container p{
+   line-height: 50px;
+   text-align: justify;
+}
+.box{
+   background-color: #7DC765;
+   color: #ffebcd;
+   padding: 30px;
+}
