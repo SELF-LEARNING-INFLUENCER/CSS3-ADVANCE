@@ -1,0 +1,16 @@
+CSS Position
+Positioning elements appropriately on the web pages is a necessity for a good layout design
+The CSS position property is used to set position for an element. it is also used to place
+an element behind another and also useful for scripted animation effect.
+You can position an element using the top, bottom, left and right properties. These 
+properties can be used only after position property is set first. A position element's 
+computed position property is relative, absolute, fixed or sticky.
+2.Positon-relative:
+A relative positioned element is positioned relative to its normal position.
+In the relative positioning scheme the element's box position is calculated according to 
+the normal flow. Then the box is shifted from this normal position according to the 
+properties — top or bottom and/or left or right.
+Note: A relatively positioned element can be moved and overlap other elements, but it keeps 
+the space originally reserved for it in the normal flow.
+
+
