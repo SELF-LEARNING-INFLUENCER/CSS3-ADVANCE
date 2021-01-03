@@ -1,0 +1,15 @@
+CSS Position
+Positioning elements appropriately on the web pages is a necessity for a good layout design
+The CSS position property is used to set position for an element. it is also used to place
+an element behind another and also useful for scripted animation effect.
+You can position an element using the top, bottom, left and right properties. These 
+properties can be used only after position property is set first. A position element's 
+computed position property is relative, absolute, fixed or sticky.
+2.Positon-fixed:
+Fixed positioning is a subcategory of absolute positioning.
+
+The only difference is, a fixed positioned element is fixed with respect to the browser's 
+viewport and does not move when scrolled.
+Note: In case of the print media type, the fixed positioned element is rendered on every 
+page, and is fixed with respect to the page box (even in print-preview). IE7 and IE8 
+support the fixed value only if a <!DOCTYPE> is specified.
