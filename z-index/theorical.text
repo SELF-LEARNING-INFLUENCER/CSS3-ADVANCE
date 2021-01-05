@@ -1,0 +1,12 @@
+CSS z-index
+The z-index in CSS allows us to define a visual hierarchy on the 3-dimensional plane, i.e., 
+the z-axis. It is used to specify the stacking order of the positioned elements (elements 
+whose position value is either fixed, absolute, relative, or sticky). The stacking order 
+means that the element's position along the z-axis, which is perpendicular to the screen.
+
+It defines the element's order if they overlap each other.
+
+Syntax
+z-index: number|auto|inherit|initial;
+Note: When elements overlap, z-index determines which one overlaps the other. An element 
+with a higher z-index generally overlaps an element with a lower one. 

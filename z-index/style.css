@@ -1,0 +1,21 @@
+div#sa{
+   position: fixed;
+   width: 400px;
+   height: 450px;
+   z-index: 1;
+   background-color: #ff0000;
+
+}
+div.sb{
+   width: 200px;
+   height: 200px;
+   background-color: #410dcf;
+   position: relative;
+   z-index: 2;
+}
+h1{
+   color: seashell;
+   position: relative;
+   z-index: 3;
+   text-indent: 15px;
+}
