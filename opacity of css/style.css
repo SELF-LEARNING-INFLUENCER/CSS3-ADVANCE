@@ -1,0 +1,37 @@
+ul{
+   margin-left: 320px;
+   padding: 20px;
+}
+ul li{
+display: inline-block;}
+.opa{
+   height: 150px;
+   width: 150px;
+   background-color: blue;
+   margin: 10px;
+   opacity: 1;
+}
+.opb{
+   height: 150px;
+   width: 150px;
+   background-color: blue;
+   margin: 10px;
+   opacity: 0.75;
+}
+.opc{
+   height: 150px;
+   width: 150px;
+   background-color: blue;
+   margin: 10px;
+   opacity: 0.50;
+}
+.opd{
+   height: 150px;
+   width: 150px;
+   background-color: blue;
+   margin: 10px;
+   opacity: 0.25;
+}
+.trasp img{
+   opacity: 0.5;
+}

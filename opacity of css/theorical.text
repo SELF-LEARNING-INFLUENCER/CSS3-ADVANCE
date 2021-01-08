@@ -1,0 +1,10 @@
+CSS Opacity
+The CSS opacity property is used to specify the transparency of an element. In simple word,
+you can say that it specifies the clarity of the image.
+
+In technical terms, Opacity is defined as degree in which light is allowed to travel 
+through an object.
+How to apply CSS opacity setting
+Opacity setting is applied uniformly across the entire object and the opacity value is 
+defined in term of digital value less than 1. The lesser opacity value displays the greater 
+opacity. Opacity is not inherited.
